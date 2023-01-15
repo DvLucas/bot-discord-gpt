@@ -1,0 +1,25 @@
+{
+  "name": "bot-discord-gpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DvLucas/bot-discord-gpt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DvLucas/bot-discord-gpt/issues"
+  },
+  "homepage": "https://github.com/DvLucas/bot-discord-gpt#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  }
+}
